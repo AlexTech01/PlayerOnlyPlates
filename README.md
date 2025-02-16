@@ -11,4 +11,4 @@ PlayerOnlyPlates does not offer a command or any configuration. To verify that t
 PlayerOnlyPlates is only officially compatible with Paper servers on version 1.21.4, but does not use any Spigot or Paper-specific features and should work on any Bukkit-based server. I will do my best to update the plugin when new versions of Minecraft come out.
 
 ## Development
-Contribution is always welcome. To compile the plugin from source, make sure you have openjdk and maven installed, then run `mvn package`.
+Contributions are always welcome. To compile the plugin from source, make sure you have openjdk and maven installed, then run `mvn package`.
