@@ -1,0 +1,7 @@
+name: PlayerOnlyPlates
+main: com.alexcraft112.playeronlyplates.PlayerOnlyPlates
+version: 1.0.1
+api-version: "1.21"
+description: A very simple plugin for Bukkit/Spigot/Paper that prevents mobs and other non-player entities from triggering pressure plates.
+author: AlexTech01
+website: https://github.com/AlexTech01/PlayerOnlyPlates
